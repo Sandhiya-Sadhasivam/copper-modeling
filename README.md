@@ -23,4 +23,4 @@ Scikit-learn
 
 Streamlit
 
-# Streamlit application link - https://copper-modeling.streamlit.app/
+# Streamlit application link #- https://copper-modeling.streamlit.app/
