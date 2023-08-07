@@ -14,4 +14,11 @@ Exploring skewness and outliers in the dataset.
 5.Creating a streamlit page where you can insert each column value and you will get the Selling_Price predicted value or Status(Won/Lost)
 
 
+# Requirements
+NumPy
 
+Pandas
+
+Scikit-learn
+
+Streamlit
