@@ -22,3 +22,5 @@ Pandas
 Scikit-learn
 
 Streamlit
+
+# Streamlit application link - https://copper-modeling.streamlit.app/
